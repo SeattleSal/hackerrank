@@ -9,3 +9,4 @@ Day 5 - recoverSecretFromTriplets (codewars) - practice using splice to remove i
 BubbleSort - In ES6, you can swap array elements as follows: [a[j], a[j+1]] = [a[j+1], a[j]]
 repeatedString - Used index to get each character in a string for comparison against another character.
 TicTacToe - using comparisons and 2D arrays
+Snail (Codewars) - recursion to navigate through a multi-dimensional array. used array commands push and splice.
